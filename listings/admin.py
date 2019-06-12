@@ -10,4 +10,4 @@ class ListingAdmin(admin.ModelAdmin):
     search_fields = ('title', 'description','address', 'city','state', 'zipcode')
     list_per_page = 15
 # Register your models here.
-admin.site.register(Listing, ListingAdmin)
+admin.site.register(Listing, ListingAdmin) 
