@@ -73,7 +73,8 @@ img {
   #showcase {
     padding-top: 4rem; }
     #showcase h1 {
-      font-size: 40px; }
+      font-size: 40px;
+      color: blueviolet; }
   .hide-md-down {
     display: none; } }
 
@@ -81,7 +82,8 @@ img {
   #showcase {
     padding-top: 3rem; }
     #showcase h1 {
-      font-size: 40px; }
+      font-size: 40px;
+      color: brown; }
     #showcase p {
       display: none; }
   #top-bar {
@@ -91,6 +93,7 @@ img {
 
 @media (max-width: 576px) {
   #showcase h1 {
-    font-size: 30px; }
+    font-size: 30px;
+    color: brown; }
   #showcase-inner h1 {
     font-size: 40px; } }
