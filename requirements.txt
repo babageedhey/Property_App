@@ -93,7 +93,7 @@ python-decouple==3.1
 python-engineio==2.2.0
 python-socketio==2.0.0
 pytz==2018.5
-pywin32==223
+pywin32==301
 PyYAML==3.13
 redis==2.10.6
 requests==2.20.1
